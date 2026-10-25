@@ -166,7 +166,7 @@ const movies = [
   },
   {
     title: "Luke Cage",
-    year: "2016–",
+    year: "2016",
     runtime: "55 min",
     director: "N/A",
     image:
